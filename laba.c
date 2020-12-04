@@ -1,11 +1,3 @@
-//
-//  laba.c
-//  laba3
-//
-//  Created by HasP on 12/4/20.
-//  Copyright © 2020 HasP. All rights reserved.
-//
-
 #include "laba.h"
 #include <stdio.h>
 #define N 20
@@ -27,4 +19,3 @@ int main(int argc, char* argv[])
     
     return 0;
 }
-
